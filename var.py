@@ -1,0 +1,7 @@
+name=("manasvi gupta")
+age=(20)
+amount=(98)
+print("my name is = ",name)
+print("my age is = ",age)
+print("the amount is = ",amount)
+print("i m learning python")
