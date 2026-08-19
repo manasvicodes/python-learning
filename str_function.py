@@ -1,0 +1,6 @@
+str =("hey, manasvi here")
+print(str.endswith("ere"))
+print(str.capitalize())
+print(str.count("e"))
+print(str.replace("hey","hi"))
+print(str.find("a"))
