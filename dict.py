@@ -7,4 +7,4 @@ dict={
     }
 
     }
-print(dict)
+print(list(dict.values()))
