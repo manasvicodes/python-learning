@@ -31,18 +31,26 @@
 #     print(nums[i])
 #     i+=1
 
+# for loop
+# print the elemnts of the list using for loop
+ 
+# nums = [1,4,9,16,25,36,49,64,81,100]
+# for el in nums:
+#     print(el)
 
-#serach for a num x in tyuple usimg ,loop
-nums=(91,3,44,67,82,89,12)
-x=82
 
-i=0
-while i < len(nums):
-   if(nums[i]==x):
-       print("found",i)     
-else:
-       print("finding")
-       i+=1
+# search for a num x in this tuple using for loop
+# tup = (1,4,9,16,25,36,49,64,81,100)
+# x=25
+# for el in tup:
+#    if(el==x):
+#          print("found")
+#          break
+#          print(char)
+# else:
+#      print("end")         
+       
+
 
 
 
